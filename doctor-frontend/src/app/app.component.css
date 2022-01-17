@@ -1,0 +1,26 @@
+
+.back_ground_style
+{
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeekOKtnAB1fosKEdmS7wG07kMmZGU4aoUA7D7BUzNcZZMipfq4w6T0B3XCgU5zMAjVkU&usqp=CAU"); 
+margin-top:100px;
+margin-bottom: 100px;
+margin-left:0px;
+margin-right:0px;
+top: 20px;;
+left:0;
+right:0;
+width:100%;
+height: 500px;
+background-repeat: no-repeat;
+display: block;
+
+
+
+background-position:center;
+background-size:cover;
+background-origin:content-box;
+} */
+ body
+{
+	overflow: hidden;
+}
